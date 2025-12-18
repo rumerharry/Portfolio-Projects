@@ -10,7 +10,9 @@ All of the work containned in this repository is using data collected from NASA'
 For access to other data from the IRTF telescope visit, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KVQWNJ 
 
 ## Project Context
-<img src="Images/Jupiter_Scan.png" alt="Telescope Data Retrieval" width="300">
+<p align="center">
+  <img src="Images/Jupiter_Scan.png" alt="Telescope Data Retrieval" width="300">
+</p>
 
 This project investigated how the temperature of Jupiter's upper atmosphere varies from the pole to the equator. From previous studies on this topic it was discovered that the equatorial regions of jupiter's upper atmosphere are unexpectedly hot. This project uses fresh data, collected in sequence on a month long period and tests how the temperature of the polar and equatorial regions varies over a short period of time. To calculate the temperature of jupiter's upper atmosphere, you first need to locate H<sub>3</sub><sup>+</sup> emission lines. Hydrogen 3+ is produced when through a chemical reaction between H_2 (traditional Hydrogen) and incoming electrons. The greater the quantity of H<sub>3</sub><sup>+</sup> present, the hotter the atmosphere is. 
 
