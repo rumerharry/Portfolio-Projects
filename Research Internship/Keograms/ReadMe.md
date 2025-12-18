@@ -1,1 +1,1 @@
-
+This folder contains a information surrounding the creation of Keograms using Python. Keograms are a useful tool for visualisation in this study because they show how ionospheric voriticity changes over colatitude when keeping a fixed magentic local time, in this case MLT equals 6 which is equivalent to Dawn.
