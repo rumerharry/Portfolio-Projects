@@ -7,7 +7,7 @@ All of the libraries used my code are publically accessible, for attempts to rep
 ## Data
 All of the work containned in this repository is using data collected from NASA's IRTF telescope, this data was collected over a month period in August 2023, this data was privately sent to me, I have uploaded a sample of this dataset. 
 
-For access to other data from the IRTF telescope visit, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KVQWNJ 
+For access to other data from NASA's IRTF telescope visit, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KVQWNJ 
 
 ## Project Context
 This project investigated how the temperature of Jupiter's upper atmosphere varies from the pole to the equator. From previous studies on this topic it was discovered that the equatorial regions of jupiter's upper atmosphere are unexpectedly hot. This project uses fresh data, collected in sequence on a month long period and tests how the temperature of the polar and equatorial regions varies over a short period of time. 
