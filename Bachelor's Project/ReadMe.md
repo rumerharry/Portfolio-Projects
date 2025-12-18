@@ -16,7 +16,7 @@ An example image showing IRTF collecting this dataset can be seen below:
   <img src="Images/Jupiter_Scan.png" alt="Telescope Data Retrieval" width="300">
 </p>
 
-To calculate the temperature of jupiter's upper atmosphere, you first need to locate H<sub>3</sub><sup>+</sup> emission lines. H<sub>3</sub><sup>+</sup> is produced when through a chemical reaction between H<sub>2 and incoming electrons. The greater the quantity of H<sub>3</sub><sup>+</sup> present, the hotter the atmosphere is. 
+To calculate the temperature of jupiter's upper atmosphere, you first need to locate H<sub>3</sub><sup>+</sup> emission lines. H<sub>3</sub><sup>+</sup> is produced when through a chemical reaction between H<sub>2< and incoming electrons. The greater the quantity of H<sub>3</sub><sup>+</sup> present, the hotter the atmosphere is. 
 
 ## Project Conclusions
 This project explored the relationship between the polar and equatorial regions of Jupiter's upper atmosphere across the entire observation period. This project found a 39% correlation between the polar and equatorial temperature suggesting a that energy is being transported from the pole down to the equatorial regions.
