@@ -14,6 +14,8 @@ This project investigated how the temperature of Jupiter's upper atmosphere vari
 
 To calculate the temperature of jupiter's upper atmosphere, you first need to locate H<sub>3</sub><sup>+</sup> emission lines. Hydrogen 3+ is produced when through a chemical reaction between H_2 (traditional Hydrogen) and incoming electrons. The greater the quantity of H<sub>3</sub><sup>+</sup> present, the hotter the atmosphere is.
 
+![Telescope Data Retrieval](Images/Jupiter_Scan.png)
+
 ## Project Conclusions
 This project explored the relationship between the polar and equatorial regions of Jupiter's upper atmosphere across the entire observation period. This project found a 39% correlation between the polar and equatorial temperature suggesting a that energy is being transported from the pole down to the equatorial regions.
 
