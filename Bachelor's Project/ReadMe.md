@@ -25,6 +25,6 @@ This project explored the relationship between the polar and equatorial regions 
 - Finding H<sub>3</sub><sup>+</sup> Emission Lines
 - Mapping H<sub>3</sub><sup>+</sup> Emission Lines to H3ppy
 - Calculating Temperature and Column Density
-- Statisical Analysis
+- 
 
 
