@@ -1,3 +1,10 @@
+This specfic section is currently being updated. 
+
+Current available sections are:
+- Bachelor's Project
+- Research Internship
+
+
 # Do Ultra Low Frequency Waves Exhibit an Upper Bound?
 This repository contains a smaple of my work investigating Ultra Low Frequency (ULF) waves in Earth's magnetosphere with the aim to determine if they exhibit an
 upper bound in terms of wave power. 
