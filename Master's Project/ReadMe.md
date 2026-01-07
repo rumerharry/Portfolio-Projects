@@ -10,7 +10,7 @@ This project investigated how the power of a signal (Power Spectral Density or P
 
 As the magnetosphere is a complex system this project splits the upper boundary of ULF into two different categories, including a global upper boundary, and a local upper boundary. The global upper boundary refers to a max limit for ULF wave power across the entire magnetosphere whereas, the local upper boundary refers to a max limit for ULF wave power in terms of Magentic Local Time (MLT) or L shell (L*). 
 ## Project Conclusions
-The upper bound for a compressional ultra low frequency wave at 1.667mHz was found to be $2.91 \log_{10}\!\left(\frac{\text{nT}^2}{\text{Hz}}\right)$. This upper bound was tested across the magnetosphere by changing MLT and L shell and the inclusion of a model magnetic field variable Bz was found to be $2.78 \log_{10}\!\left(\frac{\text{nT}^2}{\text{Hz}}\right)$ for the same wave suggesting the presence of an upper boundary.
+The upper bound for a compressional ultra low frequency wave at 1.667mHz was found to be $2.91 \log_{10}\\left(\frac{\text{nT}^2}{\text{Hz}}\right)$. This upper bound was tested across the magnetosphere by changing MLT and L shell and the inclusion of a model magnetic field variable Bz was found to be $2.78 \log_{10}\\left(\frac{\text{nT}^2}{\text{Hz}}\right)$ for the same wave suggesting the presence of an upper boundary.
 
 Investigation showed that the distribution of the power spectral density of ultra low frequency waves across a range of l shell and magnetic local time don't follow the expected distribution and require future research to explain and confirm possible theories. 
 
