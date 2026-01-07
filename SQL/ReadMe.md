@@ -1,5 +1,1 @@
-This specfic section is currently being updated. 
-
-Current available sections are:
-- Bachelor's Project
-- Research Internship
+This repository contains sample code from my mini project in SQL. In this project I prefrormed data cleaning and exploratory data analysis on a dataset containing layofff information from various companies.
